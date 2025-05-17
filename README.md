@@ -3,7 +3,7 @@
 ### 👨‍💻 Who Am I?
 
 - 📍 Based in Auckland, New Zealand  
-- 💻 Currently focused on Frontend Development using **React** and **Tailwind CSS**  
+- 💻 Currently focused on Frontend Development using **React**, **TypeScript**, and **Tailwind CSS**  
 - 🌱 Aspiring to become a **Full-Stack Engineer**
   
 ### 🧰 My Tech Stack
