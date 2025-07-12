@@ -3,7 +3,7 @@
 ### 👨‍💻 Who Am I?
 
 - 📍 Based in Auckland, New Zealand  
-- 💻 Currently focused on building with **React**, **TypeScript**, **Tailwind CSS**, **Node.js**, and improving **web accessibility**
+- 💻 Currently focused on building **MERN stack** web apps
 - 🌱 Aspiring to become a **Full-Stack Engineer**
   
 ### 🧰 My Tech Stack
